@@ -10,7 +10,13 @@ v [tabulce](https://docs.google.com/spreadsheets/d/18dqxd1UNPLrzmol-l9Jh0ruXuBp
 
 Ve výkresech používáme tyto značky pro čela:
 
- * Čelo PP: ![Čelo ZN](doc/PP.png)
- * Čelo RR: ![Čelo ZN](doc/RR.png)
- * Čelo ZN: ![Čelo ZN](doc/ZN.png)
+ * Čelo PP: ![Čelo PP](doc/znac-pp.png) ![Čelo PP](doc/real-pp.png)
+ * Čelo RR: ![Čelo RR](doc/znac-rr.png) ![Čelo RR](doc/real-rr.png)
+ * Čelo ZN: ![Čelo ZN](doc/znac-zn.png) ![Čelo ZN](doc/real-pp.png)
    Levá část je čelo Z, pravá část je čelo N.
+
+Viz [normu klubu Zabavov](http://144267.w67.wedos.ws/wp-content/uploads/2016/10/TTnorma.pdf).
+
+Oranžové obrázky čel jsou převzaty z
+[článku klubu Moduly Brno](http://www.modulybrno.cz/cela-modulu).
+Děkujeme.
