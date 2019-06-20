@@ -13,7 +13,6 @@ Ve výkresech používáme tyto značky pro čela:
  * Čelo PP: ![Čelo PP](doc/znac-pp.png) ![Čelo PP](doc/real-pp.png)
  * Čelo RR: ![Čelo RR](doc/znac-rr.png) ![Čelo RR](doc/real-rr.png)
  * Čelo NZ: ![Čelo NZ](doc/znac-nz.png) ![Čelo NZ](doc/real-nz.png)
-   Levá část je čelo Z, pravá část je čelo N.
 
 Viz [normu klubu Zabavov](http://144267.w67.wedos.ws/wp-content/uploads/2016/10/TTnorma.pdf).
 
