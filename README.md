@@ -13,6 +13,8 @@ Ve výkresech používáme tyto značky pro čela:
  * Čelo PP: ![Čelo PP](doc/znac-pp.png) ![Čelo PP](doc/real-pp.png)
  * Čelo RR: ![Čelo RR](doc/znac-rr.png) ![Čelo RR](doc/real-rr.png)
  * Čelo NZ: ![Čelo NZ](doc/znac-nz.png) ![Čelo NZ](doc/real-nz.png)
+ * Symbol `S` v kroužku: nestandardní čelo, je nutno připojit ke specifickému
+   modulu (z kontextu by mělo být jasné ke kterému).
 
 Viz [normu klubu Zabavov](http://144267.w67.wedos.ws/wp-content/uploads/2016/10/TTnorma.pdf).
 
